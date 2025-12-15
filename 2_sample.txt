@@ -1,0 +1,66 @@
+Skills from Simple File Analyzer (Text File Reader)
+1. File Handling
+
+Opening files (open())
+
+Reading entire file (read())
+
+Reading line-by-line (readlines())
+
+Working with 3+ file reads in one program
+
+Handling missing files using try–except
+
+2. String Processing
+
+Splitting text into words (split())
+
+Removing punctuation (with slicing)
+
+Counting characters (manual loop)
+
+Detecting empty lines using .strip()
+
+Cleaning text before processing
+
+3. Dictionary Operations
+
+Creating dictionaries for word frequency
+
+Updating values (+= 1)
+
+Checking if key exists
+
+Finding the most frequent word
+(max(data_dict, key=data_dict.get))
+
+4. Looping Logic
+
+Nested loops (lines → words → chars)
+
+Counting logic using loops
+
+Working with indexes
+
+5. Error Handling
+
+Using try
+
+Catching FileNotFoundError
+
+Using generic Exception
+
+6. Input Handling
+
+Taking file name from user
+
+Validating input through exceptions
+
+7. Data Analysis Thinking
+
+Counting lines, words, characters
+
+Extracting insights from text
+
+Summarizing results
+
